@@ -1,0 +1,95 @@
+<html>
+    <head>
+        <title>Table</title>
+    </head>
+    <body bgcolor="pink";>
+        <h4>This is simple program. Follow all steps of the below Program and check for output.<h4>
+        <center>
+		<table bgcolor="cyan"; border="collapse"; style="border-color:#b4bbc6;">
+		    <tr>
+    <th>Sr.no</th>
+    <th>PROGRAM</th>
+  </tr>
+  <tr>
+    <td>&#49;</td>
+    <td> &#35; include 	&lt; bits 	&#47; stdc++.h></td>
+  </tr>
+  <tr>
+    <td>&#50;</td>
+    <td>using namespace std &#59;</td>
+  </tr>
+   </tr>
+  <tr>
+    <td>&#51;</td>
+    <td>class Geeks</td>
+  </tr>
+  <tr>
+    <td>&#52;</td>
+    <td>&#123;</td>
+  </tr>
+   </tr>
+  <tr>
+    <td>&#53;</td>
+    <td> public 	&#58;</td>
+  </tr>
+  <tr>
+    <td>&#54;</td>
+    <td>string geekname &#59;</td>
+   </tr>
+  <tr>
+    <td>&#55;</td>
+    <td>void printname 	&#40; 	&#41; </td>
+  </tr>
+  <tr>
+    <td>&#56;</td>
+    <td>&#123;</td>
+  </tr>
+   </tr>
+  <tr>
+    <td>&#57;</td>
+    <td>cout 	&lt;	&lt; &#34; Geekname is: &#34; 	&lt;	&lt; geekname &#59;</td>
+  </tr>
+  <tr>
+    <td> &#49; &#48;</td>
+    <td>	&#125;</td>
+  </tr>
+  <tr>
+    <td>&#49; &#49;</td>
+    <td>	&#125; 	&#125;;</td>
+  </tr>
+  <tr>
+    <td>&#49; &#50;</td>
+    <td>int main 	&#40;  	&#41;  &#123;</td>
+  </tr>
+   </tr>
+  <tr>
+    <td>&#49; &#51;</td>
+    <td> Geeks obj1 &#59;</td>
+  </tr>
+  <tr>
+    <td>&#49; &#52;</td>
+    <td>obj1.geekname = &#34; BOSS &#34; &#59;</td>
+  </tr>
+  <tr>
+    <td>&#49; &#53;</td>
+    <td> obj1.printname 	&#40; 		&#41;  ;</td>
+  </tr>
+   </tr>
+  <tr>
+    <td>&#49; &#54;</td>
+    <td> Geeks obj1 &#59;</td>
+  </tr>
+  <tr>
+    <td>&#49; &#55;</td>
+    <td>return 0 &#59;</td>
+  </tr>
+  <tr>
+    <td>&#49; &#56;</td>
+    <td>	&#125;</td>
+  </tr>
+        </table>
+		</center>
+		<h3>Output will be:</h3>
+		<h5>Geekname is BOSS.</h5>
+	</body>
+</html>

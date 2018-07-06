@@ -1,0 +1,28 @@
+<html>
+<head>
+ <body>
+  <script>
+
+     
+ var i, j;
+  //outer loop
+  for(i=1; i <= 5; i++)
+   {
+   //inner loop
+    for(j=1; j<=i; j++)
+   {
+     document.write('*');
+    }
+     document.write('<br/>');
+   }
+
+ var input = prompt("Enter the number to get factorial of: ");
+    var result = input;
+    for(var j=1;j < input;j++){
+       result = j * result;
+    }
+    document.write(result);
+	
+  </script>
+ </body>
+</html>

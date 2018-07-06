@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>2nd assignment</title>
+ </head>
+   <body bgcolor="cyan">
+     <h1 align="center" style="color:white; font-family:segoe UI; background-color:red; height:50px; width:50;">WELCOME IN THE BOSS WORLD</h1>
+	 <center><svg  height="200" width="100" >
+        <circle cx="50" cy="50" r="50" fill="red"/>
+        <circle cx="30" cy="40" r="5" fill="blue"/>
+        <circle cx="70" cy="40" r="5" fill="blue"/>
+        <ellipse cx="50" cy="75" rx="20" ry="10" fill="black"/>
+        <ellipse cx="50" cy="70" rx="20" ry="10" fill="red"/>
+    </svg></center>
+     <img height="300" width="400" src="FB_IMG_14968336015541354.jpg" alt="you have lost it"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+     <img height="300" width="400" src="FB_IMG_14968595999125551.jpg" alt="you have lost it"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+     <img height="300" width="400" src="FB_IMG_14969419189400527.jpg" alt="you have lost it"/>&nbsp&nbsp&nbsp<br/>
+	 <br/>
+	 <h3>Prada by Jass manak</h3>
+	<audio controls="true">
+	 <source src="Parada (BASS BOOSTED )  Jass Manak ft Byg Byrd  P.B.B (1).mp3" type="audio/mpeg">
+	</audio>
+	<h3>Ignite by Alan walker</h3>
+	<audio controls="true">
+	 <source src="K-391 - Ignite (feat. Alan Walker Julie Bergan  Seungri).mp3" type="audio/mpeg">
+	</audio>
+	<h3>Treat you better</h3>
+	<audio controls="true">
+	 <source src="Shawn Mendes - Treat You Better (Ashworth Remix).mp3" type="audio/mpeg">
+	</audio>
+	
+	<h3>Motivational quotes by BOSS</h3>
+	 <q cite="www.BOSS.com"><a href="https://www.goodreads.com/quotes/tag/motivational/" target="blank">When a new day begins, dare to smile gratefully.</a></q></br>
+	<img height="550" width="1340" src="lamborghini_huracan_lp_610_4_adv1_wheels_tuning_5_2l_v10_awd_rwd__ldft_full.jpg"  alt="are you mad :)"/>
+	
+	<figcaption align="center">Lamborgini Huracan LP640</figcaption><br/>
+	
+	<footer align="center" style=" background-color:red; color:white; padding-top:10px; height:50; width:50;">copyright <sup>&copy;</sup> BOSS cars</footer>
+	 
+	 <h1 style="color:red; text-align:center;">BOSS public School, Goraya</h1>
+	 <center><a href="mailto:jasleensingh145@gmail.com?subject=we%20will%20visit%20there&body=on%20monday%20we%20will%20visit%20there">for any query contact us</a></center><br/>
+	 
+	 <table align="center">
+    <tr>
+    <th style="color:black; border:1px solid black;" rowspan="2">roll_no:</th>
+    <th style="color:black; border:1px solid black;"colspan="2">name</th>
+	<th style="color:black; border:1px solid black;"rowspan="2">marks</th>
+    </tr>
+    <tr>
+    <td style="color:black; border:1px solid black;">first name</td>
+    <td style="color:black; border:1px solid black;">last name</td>
+  </tr>
+  
+  <tr>
+      <td style="color:black; border:1px solid black;">gu-2015-2097</td>
+	  <td style="color:black; border:1px solid black;">Jasleen</td>
+    <td style="color:black; border:1px solid black;">singh</td>
+	<td style="color:black; border:1px solid black;">90 percent</td>
+   </tr>
+   <tr>
+      <td style="color:black; border:1px solid black;">gu-2016-2101</td>
+	  <td style="color:black; border:1px solid black;">rohit</td>
+    <td style="color:black; border:1px solid black;">nahar</td>
+	<td style="color:black; border:1px solid black;">60 percent</td>
+   </tr>
+   <tr>
+      <td style="color:black; border:1px solid black;">gu-2016-1286-L</td>
+	  <td style="color:black; border:1px solid black;">akash </td>
+    <td style="color:black; border:1px solid black;">verma</td>
+	<td style="color:black; border:1px solid black;">86 percent</td>
+   </tr>
+   <tr>
+      <td style="color:black; border:1px solid black;">gu-2016-2100</td>
+	  <td style="color:black; border:1px solid black;">rajja</td>
+    <td style="color:black; border:1px solid black;">singh</td>
+	<td style="color:black; border:1px solid black;">33 percent</td>
+   </tr>
+</table>
+	
+	<center><svg height="200" width="400">
+   <polygon points="100,10,44,198,190,70,10,70,160,198" style="fill:purple;stroke:black;stroke-width:5;"/>
+     </svg>
+	 <footer align="center" style="color:red; padding-top:10px; height:50px; width:50;">copyright <sup>&copy;</sup>BOSS public school</h1><br/><br/>
+	</center>
+   </body>
+</html>

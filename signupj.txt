@@ -1,0 +1,35 @@
+<html>
+    <head>
+     <title>Signup</title>
+      <style>
+      .button {
+       color:white;
+       background-color:green; 
+       border-color:green;
+       height:25px;
+       width:300px;}
+      #form { 
+      float:right; }
+     </style>	    
+    </head>
+	<body bgcolor="cyan";>
+	    <div id="form">
+	        <h2> Sign up</h2>
+	        <p>It's free and always will be</p>
+                          <form>
+	        <input type="text" name="firstname" size="25" placeholder="First name">
+	        <input type="text" name="secondname" size="25" placeholder="Last name"></br></br>
+	        <input type="email" name="mail" size="55" placeholder="Email or phone number"></br></br>
+	        <input type="email" name="mail2" size="55" placeholder="Re-enter email or phone number"></br></br>
+	        <input type="password" name="number" size="55" placeholder="Enter new password"></br></br>
+	        Date of Birth</br>
+	        <input type="date" name="date" min="1980-1-1" max="2018-12-31" />
+	        &nbsp <a href="#"> Why do we need to provide my birthday ?</a></br></br>
+	        <input type="radio" name="gender" value="M">Male
+	        <input type="radio" name="gender" value="F">Female
+		    <p>By clicking SignUp, You agree to our <a href="#">terms</a> and </br> that you hav eread our <a href="#"> data policy </a> including our </br><a href="#"> Cookie Use.</a></br></br>
+		    <input type="submit" value="sign up" class="button">
+                             </form>
+		</div>
+	</body>
+</html>
